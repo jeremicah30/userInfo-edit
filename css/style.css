@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins';
+}
+
+body{
+    background-color: rgb(214, 214, 214);
+}
+
+.form-root{
+    background-color: white;
+    margin: 5px;;
+}
+
+.form-main > label {
+    font-size: 15px;
+    color: rgb(173, 173, 173);
+}
+
+.form-main > input {
+    border: none;
+    border-bottom: 1px solid rgb(206, 206, 206);
+}
